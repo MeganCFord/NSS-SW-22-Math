@@ -28,7 +28,7 @@ cd 22-challenge-6
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SW-22-Math)
 
 
 ![screenshot](mathchallenge-screenshot.jpg)
